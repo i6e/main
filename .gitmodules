@@ -1,0 +1,21 @@
+[submodule "universal--graphql--common--types"]
+	path = packages/universal/graphql/common/types
+	url = https://github.com/i6e/universal--graphql--common--types.git
+[submodule "universal--util--typescript--types"]
+	path = packages/universal/util/typescript/types
+	url = https://github.com/i6e/universal--util--typescript--types.git
+[submodule "universal--web--libraries--guc"]
+	path = packages/universal/web/libraries/guc
+	url = https://github.com/i6e/universal--web--libraries--guc.git
+[submodule "universal--web--libraries--guc-core"]
+	path = packages/universal/web/libraries/guc-core
+	url = https://github.com/i6e/universal--web--libraries--guc-core.git
+[submodule "universal--web--libraries--guc-recommended-plugins"]
+	path = packages/universal/web/libraries/guc-recommended-plugins
+	url = https://github.com/i6e/universal--web--libraries--guc-recommended-plugins.git
+[submodule "universal--web--libraries--guc-type-plugin-margin"]
+	path = packages/universal/web/libraries/guc-type-plugin-margin
+	url = https://github.com/i6e/universal--web--libraries--guc-type-plugin-margin.git
+[submodule "universal--web--libraries--guc-variant-plugin-media"]
+	path = packages/universal/web/libraries/guc-variant-plugin-media
+	url = https://github.com/i6e/universal--web--libraries--guc-variant-plugin-media.git
