@@ -19,3 +19,6 @@
 [submodule "universal--web--libraries--guc-variant-plugin-media"]
 	path = packages/universal/web/libraries/guc-variant-plugin-media
 	url = https://github.com/i6e/universal--web--libraries--guc-variant-plugin-media.git
+[submodule "universal--web--ui-framework--dui"]
+	path = packages/universal/web/ui-framework/dui
+	url = https://github.com/i6e/universal--web--ui-framework--dui.git
